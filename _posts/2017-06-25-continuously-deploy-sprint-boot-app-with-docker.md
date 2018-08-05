@@ -7,7 +7,7 @@ categories: tech blogs
 >* You can download the [**source code**](https://github.com/yang-zhang-syd/spring-boot-docker-ci-example) on Github.
 
 Spring Boot is a lightweight and fully fledged framework written in Java. It can be used to build RESTful APIs as well as console applications. It provides functionalities such as Dependency Injection, Database Connection Pool Management out of the box so that developers can focus on the business logics instead of struggling with nuts and bolts.
-
+<!--more-->
 There are a few benefits to do CI for Spring Boot applications in docker containers.
 
 1. Make the whole CI processes documented in configuration files.

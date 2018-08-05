@@ -7,7 +7,7 @@ categories: tech blogs
 ### Summary
 This blog explains how to use d3 to draw shapes on google maps and enable users to interact with them.
 > You can find the source code on [**Plunker**](https://embed.plnkr.co/o5IuQV/)
-
+<!--more-->
 ### Problem
 Use d3 to draw shapes, polygons, lines on the map at specified geo locations. Also, the d3 components need to be interactive which means the DOM events need to be captured and processed.
 

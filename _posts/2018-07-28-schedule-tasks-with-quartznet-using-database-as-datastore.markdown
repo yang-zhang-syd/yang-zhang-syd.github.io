@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 >* You can download the [**source code**](https://github.com/yang-zhang-syd/quartznet-database-demo) on Github.
 >* A set of data tables need to be generated in the database. I have included the sql scripts in the [**source**](https://github.com/yang-zhang-syd/quartznet-database-demo/tree/master/quartznet-database-demo/sql).
-
+<!--more-->
 To use quartznet with database as the datastore, we need to set the following properties. I have created a [**utility method**](https://github.com/yang-zhang-syd/quartznet-database-demo/blob/master/quartznet-database-demo/Utils.cs) to parse the json configuration file.
 
 {% highlight json %}

@@ -6,7 +6,7 @@ categories: tech blogs
 ---
 ### Why do we need Continuous Delivery & Continuous Integration?
 In today's highly competitive IT industry no one can afford to spend years developing a piece of software. There are always smart people with same or similar ideas and users can always find alternatives if they are unhappy with what you can provide. In this sense, it is always important to get to the market faster.
-
+<!--more-->
 Also, as it says in the book 'The Lean Startup', it is important to get user feedback at an early stage. Not only to justify your ideas but also to evolve your ideas. The feedback channel is an indispensable part of your iteration loop. We cannot rely on our own imagination about what the users want and what the market needs but to evolve our ideas in an interactive way with the real end users.
 
 So, it is all about speed! This process is actually a loop:
