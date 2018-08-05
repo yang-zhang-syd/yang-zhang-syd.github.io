@@ -18,7 +18,7 @@ email: yang.zhang@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
   Thank you for visiting my blog posts!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://yang-zhang-syd.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: yang-zhang-60a92a63
 github_username:  yang-zhang-syd
 google_analytics: UA-118284688-2
