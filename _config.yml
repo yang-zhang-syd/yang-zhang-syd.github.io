@@ -24,6 +24,8 @@ github_username:  yang-zhang-syd
 google_analytics: UA-118284688-2
 show_excerpts: true
 excerpt_separator: <!--more-->
+disqus:
+  shortname: yang-zhang-syd
 
 # Build settings
 markdown: kramdown
