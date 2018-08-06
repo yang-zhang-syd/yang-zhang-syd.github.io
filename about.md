@@ -44,7 +44,7 @@ Worked in the technology team to support Macquarie Capital business.
 Feb 2013 - Nov 2015
 :   **Ainsworth Game Technology** - Software Engineer
 
-I worked at AGT as a software engineer in Jackpot Link Controller Team. My responsibilities are:
+I worked at AGT as a software engineer in Jackpot Link Controller Team. My responsibilities were:
 
 - Develop Jackpot Link Controller Embedded Windows Application by using C# and WPF. 
 - Develop Jackpot Link Controller Remote Administration Web Interface. 
@@ -87,3 +87,7 @@ Links
 [Stack Overflow](http://stackoverflow.com/users/1982524/yang-zhang)
 
 [LinkedIn](https://www.linkedin.com/in/yang-zhang-60a92a63/)
+
+[npm package: adait-select2](https://www.npmjs.com/package/adait-select2)
+
+[npm package: nodebb-plugin-chinese-slugify](https://www.npmjs.com/package/nodebb-plugin-chinese-slugify)
