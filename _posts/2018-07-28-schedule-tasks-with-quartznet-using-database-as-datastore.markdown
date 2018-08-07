@@ -2,7 +2,7 @@
 layout: post
 title:  "Quartznet Database (Mysql) Example"
 date:   2018-07-29 17:00:00 +1000
-categories: jekyll update
+categories: tech blogs
 ---
 >* You can download the [**source code**](https://github.com/yang-zhang-syd/quartznet-database-demo) on Github.
 >* A set of data tables need to be generated in the database. I have included the sql scripts in the [**source**](https://github.com/yang-zhang-syd/quartznet-database-demo/tree/master/quartznet-database-demo/sql).
