@@ -71,6 +71,6 @@ server {
 ```
 *Note: ```10.8.0.6``` is the on-premise server ip address on VPC*
 
-#### The overall architecture is as below
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+### The overall architecture is as below
+
+![Schema](/assets/posts/2018-08-06-aws-redirect-to-on-premise-server/SydneyBB.svg)
