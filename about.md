@@ -91,3 +91,10 @@ Links
 [npm package: adait-select2](https://www.npmjs.com/package/adait-select2)
 
 [npm package: nodebb-plugin-chinese-slugify](https://www.npmjs.com/package/nodebb-plugin-chinese-slugify)
+
+My Reading List
+---------------
+[Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
+[Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
+[Distributed Systems: Principles and Paradigms](http://barbie.uta.edu/~jli/Resources/MapReduce&Hadoop/Distributed%20Systems%20Principles%20and%20Paradigms.pdf)
+[Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
