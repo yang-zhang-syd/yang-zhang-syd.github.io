@@ -67,7 +67,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (~> 3.8.3)
+  jekyll (~> 3.8.4)
   jekyll-avatar
   jekyll-feed (~> 0.6)
   minima (~> 2.0)
