@@ -9,7 +9,7 @@ categories: tech blogs
 Environment variables can be defined inside docker compose files. Most of the time, some environment variables are used repeatedly, for example api gateway urls, DNS servers and identity server urls. 
 
 We can declare reusable variables inside a docker compose file and pull the values out of it into a ::.env:: file under the same folder.
-
+<!--more-->
 Below is from a section of an example `docker-compose.yml` file:
 
 ```
