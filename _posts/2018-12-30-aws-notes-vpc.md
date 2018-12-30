@@ -34,4 +34,3 @@ categories: tech blogs
 * Each subnet must reside entirely within one Availability Zone and cannot span zones.
 * When you create a custom VPC, a default Security Group, Access control List, and Route Table are created automaticaly. You must create your own subnets, Internet Gateway, and NAT Gateway (if you need one.)
 * When a VPC is created, an ACL, a Security Group and a Route Table is created.
-#AWS
