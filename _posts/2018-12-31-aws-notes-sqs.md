@@ -5,7 +5,6 @@ date:   2018-12-30 00:00:00 +1000
 categories: tech blogs
 ---
 
-# SQS
 * Messages can contain up to _256kb_ of text in any format.
 * Standard Queue more than one copy of a message might be delivered _out of order_.
 * FIFO queue ensure ::ordering:: and a message is delivered ::once:: only. 
