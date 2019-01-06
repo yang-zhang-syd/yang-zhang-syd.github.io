@@ -21,3 +21,5 @@ categories: tech blogs
 * You cannot creat VPC peering when the two VPCs have matching or overlapping CIDR blocks.
 * VPC peering does not support transitive peering relationships.
 * SSL certificates will only be useful to encrypt data in transit, not data at rest.
+* ELB can span multiple AZs within a region. It cannot span multiple regions.
+* The customer is responsible for the security of anything running on the hypervisor, and therefore the operating system and the security of data are the customer’s responsibility.
