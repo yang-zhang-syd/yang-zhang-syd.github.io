@@ -21,3 +21,4 @@ categories: tech blogs
 * ELB can span multiple AZs within a region. It cannot span multiple regions.
 * The customer is responsible for the security of anything running on the hypervisor, and therefore the operating system and the security of data are the customer’s responsibility.
 * With proper scripting and scaling policies, the On-demand instances behind the Spot instances will deliver the most cost-effective solution because the on-demand will only spin up if the spot instances are not available.
+* EBS, S3 and EFS all allow the user to configure encryption at rest using either the AWS Key Management Service (KMS) or, in some cases, using customer provided keys. The exception on the list is Elasticache for Memcached which does not offer a native encryption service, although Elasticache for Redis does.
