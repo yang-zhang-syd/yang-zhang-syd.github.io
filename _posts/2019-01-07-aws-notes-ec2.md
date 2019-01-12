@@ -22,3 +22,7 @@ categories: tech blogs
 * The customer is responsible for the security of anything running on the hypervisor, and therefore the operating system and the security of data are the customer’s responsibility.
 * With proper scripting and scaling policies, the On-demand instances behind the Spot instances will deliver the most cost-effective solution because the on-demand will only spin up if the spot instances are not available.
 * EBS, S3 and EFS all allow the user to configure encryption at rest using either the AWS Key Management Service (KMS) or, in some cases, using customer provided keys. The exception on the list is Elasticache for Memcached which does not offer a native encryption service, although Elasticache for Redis does.
+* The Public IP address is not managed on the instance: It is, instead, an alias applied as a network address translation of the Private IP address.
+* AWS does not copy launch permissions, user-defined tags, or Amazon S3 bucket permissions from the source AMI to the new AMI. 
+* You can not encrypt an exiting EBS volume.
+* AWS reserves both the first four and the last IP address in each subnet's CIDR block.
