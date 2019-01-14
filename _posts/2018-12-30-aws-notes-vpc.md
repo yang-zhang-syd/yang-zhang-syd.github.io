@@ -37,3 +37,5 @@ categories: tech blogs
 * ACL can be assigned to multiple subnets. 
 * Security Groups are assigned to instances.
 * Once a VPC is set to Dedicated hosting, it is not possible to change the VPC or the instances to Default hosting. You must re-create the VPC. 
+* You can create VPC peering cross regions and to VPC in another account.
+* By default 5 limited EIP per region.
