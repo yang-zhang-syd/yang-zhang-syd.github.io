@@ -37,6 +37,8 @@ categories: tech blogs
 * Value cannot exceeds 400kb.
 * Spread 3 different data centers. It is automatically replicated across multiple AZs.
 * By default it is eventual consistent read. It can support strongly consistent read with a higher cost.
+* DynamoDB synchronously replicates data across three facilities in an AWS Region, giving you high availability and data durability.
+* DynamoDB is designed to scale without limits. However, if you want to exceed throughput rates of 10,000 write capacity units or 10,000 read capacity units for an individual table, you must first  [contact Amazon](http://portal.aws.amazon.com/gp/aws/html-forms-controller/DynamoDB_Limit_Increase_Form) . If you want to provision more than 20,000 write capacity units or 20,000 read capacity units from a single subscriber account, you must first  [contact us](http://portal.aws.amazon.com/gp/aws/html-forms-controller/DynamoDB_Limit_Increase_Form)  to request a limit increase.
 
 ### Redshift
 * A single node can have 160 GB data.
